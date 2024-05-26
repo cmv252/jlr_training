@@ -4,4 +4,4 @@ learning nugget #1
 
 ##subheader
 
-watch the video
+finish watching the video
